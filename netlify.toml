@@ -1,7 +1,7 @@
 [[headers]]
    for = "/*"
    [headers.values]
-      Access-Control-Allow-Origin = "https://pokedex.space"
+      Access-Control-Allow-Origin = "*"
 
 [[redirects]]
     from = "/"
